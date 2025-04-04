@@ -3,7 +3,7 @@ Tree for moving around directories. fish, python.
 
 Command to install:
 ```
-git copy https://github.com/adeline2007/Go_directory
+git clone https://github.com/adeline2007/Go_directory
 cd Go_directory
 python -m venv myvenv
 sourse myvenv/bin/activate.fish
